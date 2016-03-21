@@ -13,3 +13,4 @@ files:
       - '.gitignore'
       - '.travis.yml'
       - 'nbproject/'
+      - 'crowdin.yaml'
