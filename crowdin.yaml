@@ -8,4 +8,6 @@ files:
   -
     source: '/**/*.*'
     translation: '/locale/%two_letters_code%/**/%original_file_name%'
-    ignore: '/**/*.md'
+    ignore: 
+      '/**/*.md'
+      '.gitignore'
