@@ -11,3 +11,5 @@ files:
     ignore: 
       - '/**/*.md'
       - '.gitignore'
+      - '.travis.yml'
+      - 'nbproject/'
