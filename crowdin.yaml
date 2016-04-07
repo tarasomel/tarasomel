@@ -5,5 +5,6 @@ files:
     scheme: "identifier,source_phrase,context,uk"
     first_line_contains_header: false
     update_option: 'update_without_changes'
-
-
+  -
+    source: /**/*.xml
+    translation: /**/%language_code%/%original_file_name%
