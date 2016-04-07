@@ -1,4 +1,5 @@
 files:
   -
     source: /**/*.csv
-    translation: /**/%language_code%/%original_file_name% 
+    translation: /**/%language_code%/%original_file_name%
+    scheme: identifier,source_text,context,translation
