@@ -1,1 +1,4 @@
-
+files
+  -
+    source: /**/*.csv
+    translation: /**/%language_code%/%original_file_name% 
