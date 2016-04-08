@@ -8,4 +8,6 @@ files:
   -
     source: /**/*.xml
     translation: /**/%language%/%original_file_name%
-
+  -
+    source: /**/*.md
+    translation: /**/%language%/%original_file_name%
