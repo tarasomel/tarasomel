@@ -7,5 +7,5 @@ files:
     update_option: 'update_without_changes'
   -
     source: /**/*.xml
-    translation: /**/%language_code%/%original_file_name%
+    translation: /**/%language%/%original_file_name%
 
