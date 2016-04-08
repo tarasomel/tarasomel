@@ -1,7 +1,7 @@
 files:
   -
     source: /**/*.csv
-    translation: /**/%language_code%/%original_file_name%
+    translation: /**/%language%/%original_file_name%
     scheme: "identifier,source_phrase,context,translation"
     first_line_contains_header: false
     update_option: 'update_without_changes'
