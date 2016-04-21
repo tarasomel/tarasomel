@@ -1,1 +1,1 @@
-This branch was created automatically and should contain translations provided by Crowdin(integration).
+This branch was created automatically and should contain translations pushed by Crowdin (integration).
