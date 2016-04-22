@@ -1,5 +1,5 @@
-"1","String 1","Context 1","Рядок 1"
-"2","String 22 restored","Context 2","Рядок 22, відновлений"
+"1","String 1","Context 1"
+"2","String 22 restored","Context 2","Рядок 22 відновлено"
 "3","String 3","Context 3","Рядок 3"
 "4","String 4","Context 4","Рядок 4"
 "5","String 5","Context 5","Рядок 5"
@@ -7,4 +7,4 @@
 "7","String 7","Context 7","Рядок 7"
 "8","String 8","Context 8","Рядок 8"
 "9","String 9","Context 9","Рядок 9"
-"10","String 10","Context 100","Рядку 10"
+"10","String 10","Context 100","Рядок 10"
